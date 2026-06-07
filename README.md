@@ -23,7 +23,7 @@ The analysis covers:
 
 [![Book of Mormon Dashboard](outputs/tableau_dashboard.png)](https://public.tableau.com/views/BookofMormon-AuthorshipLinguisticAnalysis/BookofMormonAuthorshipLinguisticAnalysis)
 
-
+> 🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/BookofMormon-AuthorshipLinguisticAnalysis/BookofMormonAuthorshipLinguisticAnalysis)
 
 ---
 
