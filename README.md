@@ -19,8 +19,11 @@ The analysis covers:
 
 ## Dashboard
 
-> 📸 **[INSERT SCREENSHOT OF TABLEAU DASHBOARD HERE]**
-> *(Recommended: export from Tableau as a PNG and drag into this section, or publish to Tableau Public and paste the link)*
+<img width="1195" height="795" alt="image" src="https://github.com/user-attachments/assets/5f4e290d-8d03-4ea3-8fe5-d10402b366ac" />
+
+ <div class='tableauPlaceholder' id='viz1780864366320' style='position: relative'><noscript><a href='#'><img alt='Book of Mormon — Authorship &amp; Linguistic Analysis ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;BookofMormon-AuthorshipLinguisticAnalysis&#47;BookofMormonAuthorshipLinguisticAnalysis&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BookofMormon-AuthorshipLinguisticAnalysis&#47;BookofMormonAuthorshipLinguisticAnalysis' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;BookofMormon-AuthorshipLinguisticAnalysis&#47;BookofMormonAuthorshipLinguisticAnalysis&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1780864366320');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1200px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1200px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1327px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+https://public.tableau.com/views/BookofMormon-AuthorshipLinguisticAnalysis/BookofMormonAuthorshipLinguisticAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -39,19 +42,33 @@ A few things that stood out:
 ## Visualizations
 
 ### Word Frequency by Author
-> 📸 **[INSERT outputs/word_frequency_by_author.png HERE]**
+<img width="2700" height="1500" alt="word_frequency_by_author" src="https://github.com/user-attachments/assets/1dcd6e0a-7122-42c2-b2d6-51cca80e1220" />
+
 
 ### Vocabulary Richness
-> 📸 **[INSERT outputs/vocab_richness.png HERE]**
+<img width="2100" height="750" alt="vocab_richness" src="https://github.com/user-attachments/assets/5c435104-044b-4cd1-ab48-a9b4764371d6" />
+
 
 ### Verse Length Distribution
-> 📸 **[INSERT outputs/verse_length.png HERE]**
+<img width="2100" height="750" alt="verse_length" src="https://github.com/user-attachments/assets/3a2477eb-667a-4f5f-90dd-404974f8162a" />
+
 
 ### Word Clouds — Authorship Fingerprints (Expanded Stopwords)
-> 📸 **[INSERT word cloud fingerprint images HERE — e.g. outputs/wordcloud_jacob_fingerprint.png, outputs/wordcloud_nephi_fingerprint.png]**
+<img width="1500" height="750" alt="wordcloud_nephi_fingerprint" src="https://github.com/user-attachments/assets/37c6210f-ccb8-4f11-85f2-1fa2f4d61f1f" />
+<img width="1500" height="750" alt="wordcloud_jacob_fingerprint" src="https://github.com/user-attachments/assets/f013f445-9bf0-4927-8855-4c20c614ec4f" />
+<img width="1500" height="750" alt="wordcloud_enos_fingerprint" src="https://github.com/user-attachments/assets/298fe1b4-61b5-41ee-9b6d-29ac8508ee52" />
+<img width="1500" height="750" alt="wordcloud_mormon_fingerprint" src="https://github.com/user-attachments/assets/6ab3f364-ea29-4691-8ec2-4fc69a960651" />
+<img width="1500" height="750" alt="wordcloud_moroni_fingerprint" src="https://github.com/user-attachments/assets/9e93a66d-a816-4dcd-b2a5-9c2a35c25e6f" />
+
+
 
 ### Word Clouds — Thematic (Minimal Stopwords)
-> 📸 **[INSERT word cloud thematic images HERE — e.g. outputs/wordcloud_jacob_thematic.png, outputs/wordcloud_nephi_thematic.png]**
+<img width="1500" height="750" alt="wordcloud_nephi_thematic" src="https://github.com/user-attachments/assets/da02cd1f-f1b8-4d55-9601-7db6fa2a7238" />
+<img width="1500" height="750" alt="wordcloud_jacob_thematic" src="https://github.com/user-attachments/assets/38b0c9ec-fd29-400a-89b6-4a484ea07382" />
+<img width="1500" height="750" alt="wordcloud_enos_thematic" src="https://github.com/user-attachments/assets/8de164c0-abdc-4024-a214-391e4dda5fc2" />
+<img width="1500" height="750" alt="wordcloud_mormon_thematic" src="https://github.com/user-attachments/assets/ff46b675-5543-4166-a9c5-01861ecb20d3" />
+<img width="1500" height="750" alt="wordcloud_moroni_thematic" src="https://github.com/user-attachments/assets/8be814ab-1776-4a90-8c01-d35323ea278e" />
+
 
 ---
 
