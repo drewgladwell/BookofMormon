@@ -1,3 +1,4 @@
+<img width="1195" height="795" alt="tableau_dashboard" src="https://github.com/user-attachments/assets/1d20c28f-3f08-42b4-ad92-9147a8ae53e1" />
 # Book of Mormon — Authorship & Linguistic Analysis
 
 A data analytics project exploring the writing styles of different authors in the Book of Mormon using Python, NLP, and Tableau. This started as a personal project to combine my interest in data analytics with my faith, and ended up being one of the more interesting datasets I've worked with.
@@ -19,7 +20,8 @@ The analysis covers:
 
 ## Dashboard
 
-[![Book of Mormon Dashboard](outputs/tableau_dashboard.png)](https://public.tableau.com/views/BookofMormon-AuthorshipLinguisticAnalysis/BookofMormonAuthorshipLinguisticAnalysis)
+[![Book of Mormon Dashboard](<img width="1195" height="795" alt="tableau_dashboard" src="https://github.com/user-attachments/assets/168717b8-dcdf-4d66-bddc-c218a0df412f" />
+)](https://public.tableau.com/views/BookofMormon-AuthorshipLinguisticAnalysis/BookofMormonAuthorshipLinguisticAnalysis)
 
 
 ---
