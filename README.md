@@ -19,7 +19,7 @@ The analysis covers:
 
 ## Dashboard
 
-[![Book of Mormon Dashboard](outputs/tableau_dashboard.png)](https://public.tableau.com/views/BookofMormon-AuthorshipLinguisticAnalysis/BookofMormonAuthorshipLinguisticAnalysis)
+[![Book of Mormon Dashboard](outputs/tableau_dashboard)](https://public.tableau.com/views/BookofMormon-AuthorshipLinguisticAnalysis/BookofMormonAuthorshipLinguisticAnalysis)
 
 
 ---
